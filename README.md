@@ -1,2 +1,4 @@
 # duse | CLI File/Directory size query tool
-First rust project I guess
+Very basic command line application which outputs the size of a given path
+
+Made as a first rust project
